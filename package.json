@@ -1,0 +1,141 @@
+{
+  "name": "@aureooms/js-pairs",
+  "description": "Pairs set for JavaScript",
+  "version": "0.0.0",
+  "author": "aureooms",
+  "ava": {
+    "files": [
+      "test/src/**/*"
+    ],
+    "require": [
+      "regenerator-runtime/runtime",
+      "@babel/register"
+    ],
+    "timeout": "1m"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ],
+    "env": {
+      "test": {
+        "presets": [
+          "babel-preset-power-assert"
+        ],
+        "plugins": [
+          [
+            "transform-remove-console",
+            {
+              "exclude": [
+                "log",
+                "error",
+                "warn"
+              ]
+            }
+          ]
+        ],
+        "sourceMaps": "inline"
+      },
+      "development": {
+        "presets": [
+          "babel-preset-power-assert"
+        ],
+        "plugins": [
+          [
+            "transform-remove-console",
+            {
+              "exclude": [
+                "log",
+                "error",
+                "warn"
+              ]
+            }
+          ]
+        ],
+        "sourceMaps": "inline"
+      },
+      "production": {
+        "plugins": [
+          "babel-plugin-unassert",
+          [
+            "transform-remove-console",
+            {
+              "exclude": [
+                "log",
+                "error",
+                "warn"
+              ]
+            }
+          ]
+        ],
+        "sourceMaps": "inline"
+      }
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/aureooms/js-pairs/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "7.10.5",
+    "@babel/core": "7.10.5",
+    "@babel/preset-env": "7.10.4",
+    "@babel/register": "7.10.5",
+    "ava": "3.11.0",
+    "babel-plugin-transform-remove-console": "6.9.4",
+    "babel-plugin-unassert": "3.0.1",
+    "babel-preset-power-assert": "3.0.0",
+    "coveralls": "3.1.0",
+    "esdoc": "1.1.0",
+    "esdoc-ecmascript-proposal-plugin": "1.0.0",
+    "esdoc-inject-script-plugin": "1.0.0",
+    "esdoc-inject-style-plugin": "1.0.0",
+    "esdoc-standard-plugin": "1.0.0",
+    "np": "6.3.2",
+    "nyc": "15.1.0",
+    "power-assert": "^1.6.1",
+    "regenerator-runtime": "0.13.5",
+    "xo": "0.32.1"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://aureooms.github.io/js-pairs",
+  "keywords": ["pairs", "set"],
+  "license": "AGPL-3.0",
+  "main": "lib/index.js",
+  "prettier": {
+    "trailingComma": "all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aureooms/js-pairs"
+  },
+  "scripts": {
+    "build": "babel --delete-dir-on-start --env-name production src -d lib",
+    "cover": "nyc --reporter=lcov npm test",
+    "esdoc": "esdoc",
+    "prepare": "npm run build",
+    "release": "np",
+    "test": "xo && ava"
+  },
+  "sideEffects": false,
+  "xo": {
+    "prettier": true,
+    "ignore": [
+      "lib",
+      "doc"
+    ],
+    "plugins": [
+      "unicorn"
+    ],
+    "rules": {
+      "unicorn/filename-case": [
+        "error",
+        {
+          "case": "camelCase"
+        }
+      ]
+    }
+  }
+}
