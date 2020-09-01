@@ -18,9 +18,12 @@ export default class EfficientlyInvertiblePairs extends BasePairs {
 	}
 
 	add([A, B]) {
-		if (!this.has([A, B])) ++this.size;
-		insert(this._map, A, B);
-		insert(this._imap, B, A);
+		if (!this.has([A, B])) {
+			insert(this._map, A, B);
+			insert(this._imap, B, A);
+			++this.size;
+		}
+
 		return this;
 	}
 

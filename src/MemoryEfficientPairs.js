@@ -18,8 +18,11 @@ export default class MemoryEfficientPairs extends BasePairs {
 	}
 
 	add([A, B]) {
-		if (!this.has([A, B])) ++this.size;
-		insert(this._map, A, B);
+		if (!this.has([A, B])) {
+			insert(this._map, A, B);
+			++this.size;
+		}
+
 		return this;
 	}
 
