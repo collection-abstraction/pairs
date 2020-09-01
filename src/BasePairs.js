@@ -48,7 +48,7 @@ export default class BasePairs {
 	}
 
 	left() {
-		return filter((x) => this._map.get(x).size > 0, this._map.keys());
+		return this._map.keys();
 	}
 
 	right() {

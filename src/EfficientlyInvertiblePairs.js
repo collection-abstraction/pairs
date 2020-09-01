@@ -1,4 +1,3 @@
-import {filter} from '@aureooms/js-itertools';
 import BasePairs from './BasePairs';
 import insert from './insert';
 import remove from './remove';
@@ -45,7 +44,7 @@ export default class EfficientlyInvertiblePairs extends BasePairs {
 	// Custom
 
 	right() {
-		return filter((x) => this._imap.get(x).size > 0, this._imap.keys());
+		return this._imap.keys();
 	}
 
 	*leftOf(B) {
