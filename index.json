@@ -1,0 +1,1667 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/BasePairs.js",
+    "content": "import {map, filter} from '@aureooms/js-itertools';\nimport {NotImplementedError} from '@aureooms/js-error';\nimport iterableFromMap from './iterableFromMap';\n\nexport default class BasePairs {\n\t// Set-like\n\tadd() {\n\t\tthrow new NotImplementedError('BasePairs#add: Not implemented.');\n\t}\n\n\tclear() {\n\t\tthrow new NotImplementedError('BasePairs#clear: Not implemented.');\n\t}\n\n\tdelete() {\n\t\tthrow new NotImplementedError('BasePairs#delete: Not implemented.');\n\t}\n\n\thas([A, B]) {\n\t\treturn this._map.has(A) && this._map.get(A).has(B);\n\t}\n\n\tvalues() {\n\t\treturn iterableFromMap(this._map);\n\t}\n\n\t*entries() {\n\t\tfor (const value of this.values()) yield [value, value];\n\t}\n\n\tkeys() {\n\t\treturn this.values();\n\t}\n\n\t[Symbol.iterator]() {\n\t\treturn this.values();\n\t}\n\n\tforEach(callbackFn, thisArg = this) {\n\t\tfor (const value of this.values()) callbackFn.call(thisArg, value);\n\t}\n\n\t// Custom\n\n\tupdate(pairs) {\n\t\tfor (const pair of pairs) this.add(pair);\n\t\treturn this;\n\t}\n\n\tleft() {\n\t\treturn this._map.keys();\n\t}\n\n\tright() {\n\t\treturn new Set(map((x) => x[1], this.values())).keys();\n\t}\n\n\t*rightOf(A) {\n\t\tif (this._map.has(A)) yield* this._map.get(A);\n\t}\n\n\tleftOf(B) {\n\t\treturn map(\n\t\t\t(x) => x[0],\n\t\t\tfilter((x) => B === x[1], this.values()),\n\t\t);\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/BasePairs.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "BasePairs",
+    "memberof": "src/BasePairs.js",
+    "static": true,
+    "longname": "src/BasePairs.js~BasePairs",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/BasePairs.js",
+    "importStyle": "BasePairs",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "interface": false
+  },
+  {
+    "__docId__": 50,
+    "kind": "method",
+    "name": "add",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#add",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 51,
+    "kind": "method",
+    "name": "clear",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#clear",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "method",
+    "name": "delete",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#delete",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "has",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#has",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arrayPattern",
+        "types": [
+          "*[]"
+        ],
+        "defaultRaw": [
+          "null",
+          "null"
+        ],
+        "defaultValue": "[null, null]"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "values",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#values",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "entries",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": true,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#entries",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 56,
+    "kind": "method",
+    "name": "keys",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#keys",
+    "access": "public",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "method",
+    "name": "[Symbol.iterator]",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#[Symbol.iterator]",
+    "access": "public",
+    "description": null,
+    "lineNumber": 35,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "method",
+    "name": "forEach",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#forEach",
+    "access": "public",
+    "description": null,
+    "lineNumber": 39,
+    "undocument": true,
+    "params": [
+      {
+        "name": "callbackFn",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "thisArg",
+        "optional": true,
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "update",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#update",
+    "access": "public",
+    "description": null,
+    "lineNumber": 45,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pairs",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "method",
+    "name": "left",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#left",
+    "access": "public",
+    "description": null,
+    "lineNumber": 50,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "method",
+    "name": "right",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#right",
+    "access": "public",
+    "description": null,
+    "lineNumber": 54,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 62,
+    "kind": "method",
+    "name": "rightOf",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": true,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#rightOf",
+    "access": "public",
+    "description": null,
+    "lineNumber": 58,
+    "undocument": true,
+    "params": [
+      {
+        "name": "A",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 63,
+    "kind": "method",
+    "name": "leftOf",
+    "memberof": "src/BasePairs.js~BasePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/BasePairs.js~BasePairs#leftOf",
+    "access": "public",
+    "description": null,
+    "lineNumber": 62,
+    "undocument": true,
+    "params": [
+      {
+        "name": "B",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/EfficientlyInvertiblePairs.js",
+    "content": "import BasePairs from './BasePairs';\nimport insert from './insert';\nimport remove from './remove';\n\nexport default class EfficientlyInvertiblePairs extends BasePairs {\n\tstatic from(pairs) {\n\t\tconst set = new EfficientlyInvertiblePairs(new Map(), new Map(), 0);\n\t\treturn set.update(pairs);\n\t}\n\n\t// Set-like\n\n\tconstructor(map, imap, size) {\n\t\tsuper();\n\t\tthis._map = map;\n\t\tthis._imap = imap;\n\t\tthis.size = size;\n\t}\n\n\tadd([A, B]) {\n\t\tif (!this.has([A, B])) ++this.size;\n\t\tinsert(this._map, A, B);\n\t\tinsert(this._imap, B, A);\n\t\treturn this;\n\t}\n\n\tclear() {\n\t\tthis.size = 0;\n\t\tthis._map.clear();\n\t\tthis._imap.clear();\n\t\treturn undefined;\n\t}\n\n\tdelete([A, B]) {\n\t\tif (remove(this._map, A, B)) {\n\t\t\tremove(this._imap, B, A);\n\t\t\t--this.size;\n\t\t\treturn true;\n\t\t}\n\n\t\treturn false;\n\t}\n\n\t// Custom\n\n\tright() {\n\t\treturn this._imap.keys();\n\t}\n\n\t*leftOf(B) {\n\t\tif (this._imap.has(B)) yield* this._imap.get(B);\n\t}\n\n\tinvert() {\n\t\treturn new EfficientlyInvertiblePairs(this._imap, this._map, this.size);\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/EfficientlyInvertiblePairs.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "class",
+    "name": "EfficientlyInvertiblePairs",
+    "memberof": "src/EfficientlyInvertiblePairs.js",
+    "static": true,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/EfficientlyInvertiblePairs.js",
+    "importStyle": "EfficientlyInvertiblePairs",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/BasePairs.js~BasePairs"
+    ]
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "from",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs.from",
+    "access": "public",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pairs",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 67,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true
+  },
+  {
+    "__docId__": 68,
+    "kind": "member",
+    "name": "_map",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#_map",
+    "access": "private",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "member",
+    "name": "_imap",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#_imap",
+    "access": "private",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 70,
+    "kind": "member",
+    "name": "size",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#size",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "add",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#add",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arrayPattern",
+        "types": [
+          "*[]"
+        ],
+        "defaultRaw": [
+          "null",
+          "null"
+        ],
+        "defaultValue": "[null, null]"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 72,
+    "kind": "method",
+    "name": "clear",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#clear",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "method",
+    "name": "delete",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#delete",
+    "access": "public",
+    "description": null,
+    "lineNumber": 34,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arrayPattern",
+        "types": [
+          "*[]"
+        ],
+        "defaultRaw": [
+          "null",
+          "null"
+        ],
+        "defaultValue": "[null, null]"
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 75,
+    "kind": "method",
+    "name": "right",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#right",
+    "access": "public",
+    "description": null,
+    "lineNumber": 46,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 76,
+    "kind": "method",
+    "name": "leftOf",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": true,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#leftOf",
+    "access": "public",
+    "description": null,
+    "lineNumber": 50,
+    "undocument": true,
+    "params": [
+      {
+        "name": "B",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 77,
+    "kind": "method",
+    "name": "invert",
+    "memberof": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs#invert",
+    "access": "public",
+    "description": null,
+    "lineNumber": 54,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "file",
+    "name": "src/MemoryEfficientPairs.js",
+    "content": "import BasePairs from './BasePairs';\nimport insert from './insert';\nimport remove from './remove';\nimport invertIterable from './invertIterable';\n\nexport default class MemoryEfficientPairs extends BasePairs {\n\tstatic from(pairs) {\n\t\tconst set = new MemoryEfficientPairs(new Map(), 0);\n\t\treturn set.update(pairs);\n\t}\n\n\t// Set-like\n\n\tconstructor(map, size) {\n\t\tsuper();\n\t\tthis._map = map;\n\t\tthis.size = size;\n\t}\n\n\tadd([A, B]) {\n\t\tif (!this.has([A, B])) ++this.size;\n\t\tinsert(this._map, A, B);\n\t\treturn this;\n\t}\n\n\tclear() {\n\t\tthis.size = 0;\n\t\tthis._map.clear();\n\t\treturn undefined;\n\t}\n\n\tdelete([A, B]) {\n\t\tif (remove(this._map, A, B)) {\n\t\t\t--this.size;\n\t\t\treturn true;\n\t\t}\n\n\t\treturn false;\n\t}\n\n\t// Custom\n\n\tinvert() {\n\t\treturn MemoryEfficientPairs.from(invertIterable(this.values()));\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/MemoryEfficientPairs.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 79,
+    "kind": "class",
+    "name": "MemoryEfficientPairs",
+    "memberof": "src/MemoryEfficientPairs.js",
+    "static": true,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/MemoryEfficientPairs.js",
+    "importStyle": "MemoryEfficientPairs",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "src/BasePairs.js~BasePairs"
+    ]
+  },
+  {
+    "__docId__": 80,
+    "kind": "method",
+    "name": "from",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs.from",
+    "access": "public",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "params": [
+      {
+        "name": "pairs",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true
+  },
+  {
+    "__docId__": 82,
+    "kind": "member",
+    "name": "_map",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#_map",
+    "access": "private",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "member",
+    "name": "size",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#size",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "method",
+    "name": "add",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#add",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arrayPattern",
+        "types": [
+          "*[]"
+        ],
+        "defaultRaw": [
+          "null",
+          "null"
+        ],
+        "defaultValue": "[null, null]"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "method",
+    "name": "clear",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#clear",
+    "access": "public",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 87,
+    "kind": "method",
+    "name": "delete",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#delete",
+    "access": "public",
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arrayPattern",
+        "types": [
+          "*[]"
+        ],
+        "defaultRaw": [
+          "null",
+          "null"
+        ],
+        "defaultValue": "[null, null]"
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 88,
+    "kind": "method",
+    "name": "invert",
+    "memberof": "src/MemoryEfficientPairs.js~MemoryEfficientPairs",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/MemoryEfficientPairs.js~MemoryEfficientPairs#invert",
+    "access": "public",
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "import BasePairs from './BasePairs';\nimport EfficientlyInvertiblePairs from './EfficientlyInvertiblePairs';\nimport MemoryEfficientPairs from './MemoryEfficientPairs';\nimport insert from './insert';\nimport invertIterable from './invertIterable';\nimport iterableFromMap from './iterableFromMap';\nimport remove from './remove';\nimport swap from './swap';\n\n/* eslint import/no-anonymous-default-export: [2, {\"allowObject\": true}] */\nexport default {\n\tBasePairs,\n\tEfficientlyInvertiblePairs,\n\tMemoryEfficientPairs,\n\tinsert,\n\tinvertIterable,\n\titerableFromMap,\n\tremove,\n\tswap,\n};\n\nexport {\n\tBasePairs,\n\tEfficientlyInvertiblePairs,\n\tMemoryEfficientPairs,\n\tinsert,\n\tinvertIterable,\n\titerableFromMap,\n\tremove,\n\tswap,\n};\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 90,
+    "kind": "file",
+    "name": "src/insert.js",
+    "content": "export default function insert(map, A, B) {\n\tif (map.has(A)) {\n\t\tmap.get(A).add(B);\n\t} else {\n\t\tmap.set(A, new Set([B]));\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/insert.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 91,
+    "kind": "function",
+    "name": "insert",
+    "memberof": "src/insert.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/insert.js~insert",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/insert.js",
+    "importStyle": "insert",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "map",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "A",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "B",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 92,
+    "kind": "file",
+    "name": "src/invertIterable.js",
+    "content": "import {map} from '@aureooms/js-itertools';\nimport swap from './swap';\n\nexport default function invertIterable(iterable) {\n\treturn map(swap, iterable);\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/invertIterable.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 93,
+    "kind": "function",
+    "name": "invertIterable",
+    "memberof": "src/invertIterable.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/invertIterable.js~invertIterable",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/invertIterable.js",
+    "importStyle": "invertIterable",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "iterable",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 94,
+    "kind": "file",
+    "name": "src/iterableFromMap.js",
+    "content": "export default function* iterableFromMap(map) {\n\tfor (const [A, others] of map.entries()) {\n\t\tfor (const B of others.values()) yield [A, B];\n\t}\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/iterableFromMap.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 95,
+    "kind": "function",
+    "name": "iterableFromMap",
+    "memberof": "src/iterableFromMap.js",
+    "generator": true,
+    "async": false,
+    "static": true,
+    "longname": "src/iterableFromMap.js~iterableFromMap",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/iterableFromMap.js",
+    "importStyle": "iterableFromMap",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "map",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 96,
+    "kind": "file",
+    "name": "src/remove.js",
+    "content": "export default function remove(map, A, B) {\n\tif (map.has(A)) {\n\t\tconst right = map.get(A);\n\t\tif (right.delete(B)) {\n\t\t\tif (right.size === 0) map.delete(A);\n\t\t\treturn true;\n\t\t}\n\t}\n\n\treturn false;\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/remove.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 97,
+    "kind": "function",
+    "name": "remove",
+    "memberof": "src/remove.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/remove.js~remove",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/remove.js",
+    "importStyle": "remove",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "map",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "A",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "B",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 98,
+    "kind": "file",
+    "name": "src/swap.js",
+    "content": "export default function swap([A, B]) {\n\treturn [B, A];\n}\n",
+    "static": true,
+    "longname": "/home/aureooms/dev/js/js-pairs/src/swap.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 99,
+    "kind": "function",
+    "name": "swap",
+    "memberof": "src/swap.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/swap.js~swap",
+    "access": "public",
+    "export": true,
+    "importPath": "@aureooms/js-pairs/src/swap.js",
+    "importStyle": "swap",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arrayPattern",
+        "types": [
+          "*[]"
+        ],
+        "defaultRaw": [
+          "null",
+          "null"
+        ],
+        "defaultValue": "[null, null]"
+      }
+    ],
+    "return": {
+      "types": [
+        "undefined[]"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "[@aureooms/js-pairs](https://aureooms.github.io/js-pairs)\n==\n\nPairs set for JavaScript.\nSee [docs](https://aureooms.github.io/js-pairs/index.html).\n\n> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\n[![License](https://img.shields.io/github/license/aureooms/js-pairs.svg)](https://raw.githubusercontent.com/aureooms/js-pairs/master/LICENSE)\n[![Version](https://img.shields.io/npm/v/@aureooms/js-pairs.svg)](https://www.npmjs.org/package/@aureooms/js-pairs)\n[![Build](https://img.shields.io/travis/aureooms/js-pairs/master.svg)](https://travis-ci.org/aureooms/js-pairs/branches)\n[![Dependencies](https://img.shields.io/david/aureooms/js-pairs.svg)](https://david-dm.org/aureooms/js-pairs)\n[![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-pairs.svg)](https://david-dm.org/aureooms/js-pairs?type=dev)\n[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-pairs.svg)](https://github.com/aureooms/js-pairs/issues)\n[![Downloads](https://img.shields.io/npm/dm/@aureooms/js-pairs.svg)](https://www.npmjs.org/package/@aureooms/js-pairs)\n\n[![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/issues)\n[![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/churn)\n[![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-pairs/master.svg)](https://codecov.io/gh/aureooms/js-pairs)\n<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-pairs/master.svg)](https://coveralls.io/r/aureooms/js-pairs)-->\n<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/test_coverage_new_code)-->\n[![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/technical_debt)\n[![Documentation](https://aureooms.github.io/js-pairs/badge.svg)](https://aureooms.github.io/js-pairs/source.html)\n[![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-pairs)](https://bundlephobia.com/result?p=@aureooms/js-pairs)\n",
+    "longname": "/home/aureooms/dev/js/js-pairs/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"@aureooms/js-pairs\",\n  \"description\": \"Pairs set for JavaScript\",\n  \"version\": \"0.0.0\",\n  \"author\": \"aureooms\",\n  \"ava\": {\n    \"files\": [\n      \"test/src/**/*\"\n    ],\n    \"require\": [\n      \"regenerator-runtime/runtime\",\n      \"@babel/register\"\n    ],\n    \"timeout\": \"1m\"\n  },\n  \"babel\": {\n    \"presets\": [\n      \"@babel/preset-env\"\n    ],\n    \"env\": {\n      \"test\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"debug\",\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"development\": {\n        \"presets\": [\n          \"babel-preset-power-assert\"\n        ],\n        \"plugins\": [\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      },\n      \"production\": {\n        \"plugins\": [\n          \"babel-plugin-unassert\",\n          [\n            \"transform-remove-console\",\n            {\n              \"exclude\": [\n                \"log\",\n                \"error\",\n                \"warn\"\n              ]\n            }\n          ]\n        ],\n        \"sourceMaps\": \"inline\"\n      }\n    }\n  },\n  \"bugs\": {\n    \"url\": \"https://github.com/aureooms/js-pairs/issues\"\n  },\n  \"dependencies\": {\n    \"@aureooms/js-error\": \"^4.0.1\",\n    \"@aureooms/js-itertools\": \"^4.1.0\"\n  },\n  \"devDependencies\": {\n    \"@aureooms/js-compare\": \"^1.4.8\",\n    \"@babel/cli\": \"7.11.5\",\n    \"@babel/core\": \"7.11.5\",\n    \"@babel/preset-env\": \"7.11.5\",\n    \"@babel/register\": \"7.11.5\",\n    \"ava\": \"3.12.1\",\n    \"babel-plugin-transform-remove-console\": \"6.9.4\",\n    \"babel-plugin-unassert\": \"3.0.1\",\n    \"babel-preset-power-assert\": \"3.0.0\",\n    \"coveralls\": \"3.1.0\",\n    \"esdoc\": \"1.1.0\",\n    \"esdoc-ecmascript-proposal-plugin\": \"1.0.0\",\n    \"esdoc-inject-script-plugin\": \"1.0.0\",\n    \"esdoc-inject-style-plugin\": \"1.0.0\",\n    \"esdoc-standard-plugin\": \"1.0.0\",\n    \"np\": \"6.5.0\",\n    \"nyc\": \"15.1.0\",\n    \"power-assert\": \"^1.6.1\",\n    \"regenerator-runtime\": \"0.13.7\",\n    \"xo\": \"0.33.1\"\n  },\n  \"files\": [\n    \"lib\"\n  ],\n  \"homepage\": \"https://aureooms.github.io/js-pairs\",\n  \"keywords\": [\n    \"pairs\",\n    \"set\"\n  ],\n  \"license\": \"AGPL-3.0\",\n  \"main\": \"lib/index.js\",\n  \"prettier\": {\n    \"trailingComma\": \"all\"\n  },\n  \"repository\": {\n    \"type\": \"git\",\n    \"url\": \"https://github.com/aureooms/js-pairs\"\n  },\n  \"scripts\": {\n    \"build\": \"babel --delete-dir-on-start --env-name production src -d lib\",\n    \"cover\": \"nyc --reporter=lcov npm test\",\n    \"esdoc\": \"esdoc\",\n    \"prepare\": \"npm run build\",\n    \"release\": \"np\",\n    \"test\": \"ava\",\n    \"lint\": \"xo\",\n    \"dev\": \"npm run lint -- --fix && npm run cover -- -- -st --fail-fast\",\n    \"travis\": \"npm run lint && npm run cover\"\n  },\n  \"sideEffects\": false,\n  \"xo\": {\n    \"prettier\": true,\n    \"ignore\": [\n      \"lib\",\n      \"doc\"\n    ],\n    \"plugins\": [\n      \"unicorn\"\n    ],\n    \"rules\": {\n      \"unicorn/filename-case\": \"off\"\n    }\n  }\n}\n",
+    "longname": "/home/aureooms/dev/js/js-pairs/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manualIndex",
+    "globalIndex": false,
+    "content": null,
+    "longname": "",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-pairs/doc/manual/overview.md",
+    "name": "./doc/manual/overview.md",
+    "content": "# Overview\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-pairs/doc/manual/installation.md",
+    "name": "./doc/manual/installation.md",
+    "content": "# Installation\n\nCan be managed using\n[yarn](https://yarnpkg.com/en/docs),\n[npm](https://docs.npmjs.com),\nor [jspm](https://jspm.org/docs).\n\n\n### yarn\n```terminal\nyarn add @aureooms/js-pairs\n```\n\n### npm\n```terminal\nnpm install @aureooms/js-pairs --save\n```\n\n### jspm\n```terminal\njspm install npm:@aureooms/js-pairs\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-pairs/doc/manual/usage.md",
+    "name": "./doc/manual/usage.md",
+    "content": "# Usage\n\n> :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing\n> [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).\n\nFirst, require the polyfill at the entry point of your application\n```js\nrequire( 'regenerator-runtime/runtime' );\n// or\nimport 'regenerator-runtime/runtime.js' ;\n```\n\nThen, import the library where needed\n```js\nconst pairs = require( '@aureooms/js-pairs' ) ;\n// or\nimport * as pairs from '@aureooms/js-pairs' ;\n```\n",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "manual",
+    "longname": "/home/aureooms/dev/js/js-pairs/doc/manual/example.md",
+    "name": "./doc/manual/example.md",
+    "content": "# Examples\n\n> More examples in [the test files](https://github.com/aureooms/js-pairs/tree/master/test/src).\n",
+    "static": true,
+    "access": "public"
+  }
+]

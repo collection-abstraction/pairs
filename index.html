@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <base data-ice="baseUrl">
+  <title data-ice="title">Home | @aureooms/js-pairs</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link type="text/css" rel="stylesheet" href="css/prettify-tomorrow.css">
+  <script src="script/prettify/prettify.js"></script>
+  <script src="script/manual.js"></script>
+<link rel="stylesheet" href="./inject/css/0-style.css"><script src="./inject/script/0-header.js"></script><meta name="description" content="Pairs set for JavaScript"><meta property="twitter:card" content="summary"><meta property="twitter:title" content="@aureooms/js-pairs"><meta property="twitter:description" content="Pairs set for JavaScript"></head>
+<body class="layout-container" data-ice="rootContainer">
+
+<header>
+  <a href="./">Home</a>
+  <a href="./manual/index.html" data-ice="manualHeaderLink">Manual</a>
+  <a href="identifiers.html">Reference</a>
+  <a href="source.html">Source</a>
+  
+  <div class="search-box">
+  <span>
+    <img src="./image/search.png">
+    <span class="search-input-edge"></span><input class="search-input"><span class="search-input-edge"></span>
+  </span>
+    <ul class="search-result"></ul>
+  </div>
+<a style="position:relative; top:3px;" href="https://github.com/aureooms/js-pairs"><img width="20px" src="./image/github.png"></a></header>
+
+<nav class="navigation" data-ice="nav"><div>
+  <ul>
+    
+  <li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/BasePairs.js~BasePairs.html">BasePairs</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs.html">EfficientlyInvertiblePairs</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-class">C</span><span data-ice="name"><span><a href="class/src/MemoryEfficientPairs.js~MemoryEfficientPairs.html">MemoryEfficientPairs</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-insert">insert</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-invertIterable">invertIterable</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-iterableFromMap">iterableFromMap</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-remove">remove</a></span></span></li>
+<li data-ice="doc"><span data-ice="kind" class="kind-function">F</span><span data-ice="name"><span><a href="function/index.html#static-function-swap">swap</a></span></span></li>
+</ul>
+</div>
+</nav>
+
+<div class="content" data-ice="content"><div data-ice="index" class="github-markdown"><h1 id="-a-href--https---aureooms-github-io-js-pairs---aureooms-js-pairs--a-"><a href="https://aureooms.github.io/js-pairs">@aureooms/js-pairs</a></h1><p>Pairs set for JavaScript.
+See <a href="https://aureooms.github.io/js-pairs/index.html">docs</a>.</p>
+<blockquote>
+<p>:warning: The code requires <code>regeneratorRuntime</code> to be defined, for instance by importing
+<a href="https://www.npmjs.com/package/regenerator-runtime">regenerator-runtime/runtime</a>.</p>
+</blockquote>
+<p><a href="https://raw.githubusercontent.com/aureooms/js-pairs/master/LICENSE"><img src="https://img.shields.io/github/license/aureooms/js-pairs.svg" alt="License"></a>
+<a href="https://www.npmjs.org/package/@aureooms/js-pairs"><img src="https://img.shields.io/npm/v/@aureooms/js-pairs.svg" alt="Version"></a>
+<a href="https://travis-ci.org/aureooms/js-pairs/branches"><img src="https://img.shields.io/travis/aureooms/js-pairs/master.svg" alt="Build"></a>
+<a href="https://david-dm.org/aureooms/js-pairs"><img src="https://img.shields.io/david/aureooms/js-pairs.svg" alt="Dependencies"></a>
+<a href="https://david-dm.org/aureooms/js-pairs?type=dev"><img src="https://img.shields.io/david/dev/aureooms/js-pairs.svg" alt="Dev dependencies"></a>
+<a href="https://github.com/aureooms/js-pairs/issues"><img src="https://img.shields.io/github/issues/aureooms/js-pairs.svg" alt="GitHub issues"></a>
+<a href="https://www.npmjs.org/package/@aureooms/js-pairs"><img src="https://img.shields.io/npm/dm/@aureooms/js-pairs.svg" alt="Downloads"></a></p>
+<p><a href="https://codeclimate.com/github/aureooms/js-pairs/issues"><img src="https://img.shields.io/codeclimate/issues/aureooms/js-pairs.svg" alt="Code issues"></a>
+<a href="https://codeclimate.com/github/aureooms/js-pairs/trends/churn"><img src="https://img.shields.io/codeclimate/maintainability/aureooms/js-pairs.svg" alt="Code maintainability"></a>
+<a href="https://codecov.io/gh/aureooms/js-pairs"><img src="https://img.shields.io/codecov/c/gh/aureooms/js-pairs/master.svg" alt="Code coverage (cov)"></a>
+<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-pairs/master.svg)](https://coveralls.io/r/aureooms/js-pairs)-->
+<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/test_coverage_new_code)-->
+<a href="https://codeclimate.com/github/aureooms/js-pairs/trends/technical_debt"><img src="https://img.shields.io/codeclimate/tech-debt/aureooms/js-pairs.svg" alt="Code technical debt"></a>
+<a href="https://aureooms.github.io/js-pairs/source.html"><img src="https://aureooms.github.io/js-pairs/badge.svg" alt="Documentation"></a>
+<a href="https://bundlephobia.com/result?p=@aureooms/js-pairs"><img src="https://img.shields.io/bundlephobia/minzip/@aureooms/js-pairs" alt="Package size"></a></p>
+</div>
+</div>
+
+<footer class="footer">
+  Generated by <a href="https://esdoc.org">ESDoc<span data-ice="esdocVersion">(1.1.0)</span><img src="./image/esdoc-logo-mini-black.png"></a>
+</footer>
+
+<script src="script/search_index.js"></script>
+<script src="script/search.js"></script>
+<script src="script/pretty-print.js"></script>
+<script src="script/inherited-summary.js"></script>
+<script src="script/test-summary.js"></script>
+<script src="script/inner-link.js"></script>
+<script src="script/patch-for-local.js"></script>
+</body>
+</html>

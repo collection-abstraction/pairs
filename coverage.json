@@ -1,0 +1,96 @@
+{
+  "coverage": "0%",
+  "expectCount": 41,
+  "actualCount": 0,
+  "files": {
+    "src/BasePairs.js": {
+      "expectCount": 15,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        7,
+        11,
+        15,
+        19,
+        23,
+        27,
+        31,
+        35,
+        39,
+        45,
+        50,
+        54,
+        58,
+        62
+      ]
+    },
+    "src/EfficientlyInvertiblePairs.js": {
+      "expectCount": 12,
+      "actualCount": 0,
+      "undocumentLines": [
+        5,
+        6,
+        13,
+        15,
+        16,
+        17,
+        20,
+        27,
+        34,
+        46,
+        50,
+        54
+      ]
+    },
+    "src/MemoryEfficientPairs.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        7,
+        14,
+        16,
+        17,
+        20,
+        26,
+        32,
+        43
+      ]
+    },
+    "src/insert.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/invertIterable.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        4
+      ]
+    },
+    "src/iterableFromMap.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/remove.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    },
+    "src/swap.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        1
+      ]
+    }
+  }
+}
