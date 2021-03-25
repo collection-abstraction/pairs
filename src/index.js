@@ -1,31 +1,8 @@
-import BasePairs from './BasePairs.js';
-import EfficientlyInvertiblePairs from './EfficientlyInvertiblePairs.js';
-import MemoryEfficientPairs from './MemoryEfficientPairs.js';
-import insert from './insert.js';
-import invertIterable from './invertIterable.js';
-import iterableFromMap from './iterableFromMap.js';
-import remove from './remove.js';
-import swap from './swap.js';
-
-/* eslint import/no-anonymous-default-export: [2, {"allowObject": true}] */
-export default {
-	BasePairs,
-	EfficientlyInvertiblePairs,
-	MemoryEfficientPairs,
-	insert,
-	invertIterable,
-	iterableFromMap,
-	remove,
-	swap,
-};
-
-export {
-	BasePairs,
-	EfficientlyInvertiblePairs,
-	MemoryEfficientPairs,
-	insert,
-	invertIterable,
-	iterableFromMap,
-	remove,
-	swap,
-};
+export {default as BasePairs} from './BasePairs.js';
+export {default as EfficientlyInvertiblePairs} from './EfficientlyInvertiblePairs.js';
+export {default as MemoryEfficientPairs} from './MemoryEfficientPairs.js';
+export {default as insert} from './insert.js';
+export {default as invertIterable} from './invertIterable.js';
+export {default as iterableFromMap} from './iterableFromMap.js';
+export {default as remove} from './remove.js';
+export {default as swap} from './swap.js';
