@@ -146,7 +146,8 @@
           ]
         ],
         "sourceMaps": "inline"
-      }
+      },
+      "debug": {}
     }
   },
   "prettier": {
