@@ -22,7 +22,7 @@ pairs.add('bc');
 
 [![License](https://img.shields.io/github/license/aureooms/js-pairs.svg)](https://raw.githubusercontent.com/aureooms/js-pairs/master/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-pairs.svg)](https://www.npmjs.org/package/@aureooms/js-pairs)
-[![Build](https://img.shields.io/travis/aureooms/js-pairs/master.svg)](https://travis-ci.org/aureooms/js-pairs/branches)
+[![Build](https://img.shields.io/travis/aureooms/js-pairs/master.svg)](https://travis-ci.com/aureooms/js-pairs/branches)
 [![Dependencies](https://img.shields.io/david/aureooms/js-pairs.svg)](https://david-dm.org/aureooms/js-pairs)
 [![Dev dependencies](https://img.shields.io/david/dev/aureooms/js-pairs.svg)](https://david-dm.org/aureooms/js-pairs?type=dev)
 [![GitHub issues](https://img.shields.io/github/issues/aureooms/js-pairs.svg)](https://github.com/aureooms/js-pairs/issues)
