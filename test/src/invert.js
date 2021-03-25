@@ -3,7 +3,7 @@ import test from 'ava';
 import {sorted, map, list, group} from '@aureooms/js-itertools';
 import {lexicographical, increasing} from '@aureooms/js-compare';
 
-import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '../../src';
+import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from "../../src/index.js";
 
 const order = lexicographical(increasing);
 const set = (x) =>

@@ -1,6 +1,6 @@
 import {map, filter} from '@aureooms/js-itertools';
 import {NotImplementedError} from '@aureooms/js-error';
-import iterableFromMap from './iterableFromMap';
+import iterableFromMap from "./iterableFromMap.js";
 
 export default class BasePairs {
 	// Set-like

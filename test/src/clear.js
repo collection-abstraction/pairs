@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '../../src';
+import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from "../../src/index.js";
 
 const macro = (t, Pairs, input) => {
 	const result = Pairs.from(input);
