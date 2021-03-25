@@ -1,4 +1,4 @@
-[@aureooms/js-pairs](https://aureooms.github.io/js-pairs)
+:cherries: [@aureooms/js-pairs](https://aureooms.github.io/js-pairs)
 ==
 
 Pairs set for JavaScript.
