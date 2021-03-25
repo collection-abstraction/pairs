@@ -1,6 +1,6 @@
-import BasePairs from "./BasePairs.js";
-import insert from "./insert.js";
-import remove from "./remove.js";
+import BasePairs from './BasePairs.js';
+import insert from './insert.js';
+import remove from './remove.js';
 
 export default class EfficientlyInvertiblePairs extends BasePairs {
 	static from(pairs) {

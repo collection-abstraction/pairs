@@ -9,7 +9,10 @@ import {
 } from '@aureooms/js-itertools';
 import {increasing} from '@aureooms/js-compare';
 
-import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from "../../src/index.js";
+import {
+	MemoryEfficientPairs,
+	EfficientlyInvertiblePairs,
+} from '../../src/index.js';
 
 const set = (x) => sorted(increasing, new Set(x));
 const left = (x) => map(([A, _B]) => A, x);

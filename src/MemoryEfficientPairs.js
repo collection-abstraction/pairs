@@ -1,7 +1,7 @@
-import BasePairs from "./BasePairs.js";
-import insert from "./insert.js";
-import remove from "./remove.js";
-import invertIterable from "./invertIterable.js";
+import BasePairs from './BasePairs.js';
+import insert from './insert.js';
+import remove from './remove.js';
+import invertIterable from './invertIterable.js';
 
 export default class MemoryEfficientPairs extends BasePairs {
 	static from(pairs) {
