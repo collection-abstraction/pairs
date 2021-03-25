@@ -7,6 +7,19 @@ See [docs](https://aureooms.github.io/js-pairs/index.html).
 > :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
 
+```js
+import {EfficientlyInvertiblePairs as Pairs} from '@aureooms/js-pairs';
+const pairs = Pairs.from(['ab', [1,2], [1,3]]);
+pairs.left(); // a 1
+pairs.right(); // b 2 3
+pairs.invert().right(); // a 1
+pairs.leftOf(3); // 1
+pairs.rightOf(1); // 2 3
+pairs.has([1, 2]); // true
+pairs.add('bc');
+...
+```
+
 [![License](https://img.shields.io/github/license/aureooms/js-pairs.svg)](https://raw.githubusercontent.com/aureooms/js-pairs/master/LICENSE)
 [![Version](https://img.shields.io/npm/v/@aureooms/js-pairs.svg)](https://www.npmjs.org/package/@aureooms/js-pairs)
 [![Build](https://img.shields.io/travis/aureooms/js-pairs/master.svg)](https://travis-ci.org/aureooms/js-pairs/branches)
