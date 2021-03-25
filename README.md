@@ -31,8 +31,6 @@ pairs.add('bc');
 [![Code issues](https://img.shields.io/codeclimate/issues/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/issues)
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-pairs/master.svg)](https://codecov.io/gh/aureooms/js-pairs)
-<!--[![Code coverage (alls)](https://img.shields.io/coveralls/github/aureooms/js-pairs/master.svg)](https://coveralls.io/r/aureooms/js-pairs)-->
-<!--[![Code coverage (clim)](https://img.shields.io/codeclimate/coverage/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/test_coverage_new_code)-->
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/technical_debt)
 [![Documentation](https://aureooms.github.io/js-pairs/badge.svg)](https://aureooms.github.io/js-pairs/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-pairs)](https://bundlephobia.com/result?p=@aureooms/js-pairs)
