@@ -60,7 +60,7 @@
     "@aureooms/js-itertools": "^5.1.0"
   },
   "devDependencies": {
-    "@aureooms/js-compare": "^2.0.0",
+    "@aureooms/js-compare": "2.0.0",
     "@babel/core": "7.13.10",
     "@babel/preset-env": "7.13.12",
     "@babel/register": "7.13.8",
@@ -83,7 +83,7 @@
     "microbundle": "0.13.0",
     "np": "7.4.0",
     "pinst": "2.1.6",
-    "power-assert": "^1.6.1",
+    "power-assert": "1.6.1",
     "regenerator-runtime": "0.13.7",
     "xo": "0.38.2"
   },
