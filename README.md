@@ -1,8 +1,8 @@
-:cherries: [@aureooms/js-pairs](https://aureooms.github.io/js-pairs)
+:cherries: [@aureooms/js-pairs](https://make-github-pseudonymous-again.github.io/js-pairs)
 ==
 
 Pairs set for JavaScript.
-See [docs](https://aureooms.github.io/js-pairs/index.html).
+See [docs](https://make-github-pseudonymous-again.github.io/js-pairs/index.html).
 
 > :warning: The code requires `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
@@ -32,5 +32,5 @@ pairs.add('bc');
 [![Code maintainability](https://img.shields.io/codeclimate/maintainability/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/churn)
 [![Code coverage (cov)](https://img.shields.io/codecov/c/gh/aureooms/js-pairs/main.svg)](https://codecov.io/gh/aureooms/js-pairs)
 [![Code technical debt](https://img.shields.io/codeclimate/tech-debt/aureooms/js-pairs.svg)](https://codeclimate.com/github/aureooms/js-pairs/trends/technical_debt)
-[![Documentation](https://aureooms.github.io/js-pairs/badge.svg)](https://aureooms.github.io/js-pairs/source.html)
+[![Documentation](https://make-github-pseudonymous-again.github.io/js-pairs/badge.svg)](https://make-github-pseudonymous-again.github.io/js-pairs/source.html)
 [![Package size](https://img.shields.io/bundlephobia/minzip/@aureooms/js-pairs)](https://bundlephobia.com/result?p=@aureooms/js-pairs)
