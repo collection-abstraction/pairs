@@ -108,10 +108,10 @@
             }
           },
           "extra": {
-            "rawValue": "@aureooms/js-itertools",
-            "raw": "'@aureooms/js-itertools'"
+            "rawValue": "@iterable-iterator/map",
+            "raw": "'@iterable-iterator/map'"
           },
-          "value": "@aureooms/js-itertools"
+          "value": "@iterable-iterator/map"
         }
       },
       {
@@ -503,7 +503,7 @@
         "binop": null,
         "updateContext": null
       },
-      "value": "@aureooms/js-itertools",
+      "value": "@iterable-iterator/map",
       "start": 18,
       "end": 42,
       "loc": {
