@@ -12,7 +12,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then, import the library where needed
 ```js
-const pairs = require( '@aureooms/js-pairs' ) ;
+const pairs = require( '@data-structure/pairs' ) ;
 // or
-import * as pairs from '@aureooms/js-pairs' ;
+import * as pairs from '@data-structure/pairs' ;
 ```

@@ -8,15 +8,15 @@ or [jspm](https://jspm.org/docs).
 
 ### yarn
 ```terminal
-yarn add @aureooms/js-pairs
+yarn add @data-structure/pairs
 ```
 
 ### npm
 ```terminal
-npm install @aureooms/js-pairs --save
+npm install @data-structure/pairs --save
 ```
 
 ### jspm
 ```terminal
-jspm install npm:@aureooms/js-pairs
+jspm install npm:@data-structure/pairs
 ```

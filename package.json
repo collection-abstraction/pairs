@@ -1,16 +1,16 @@
 {
-  "name": "@aureooms/js-pairs",
+  "name": "@data-structure/pairs",
   "description": "Pairs set for JavaScript",
   "version": "2.0.0",
   "license": "AGPL-3.0",
-  "author": "aureooms",
-  "homepage": "https://make-github-pseudonymous-again.github.io/js-pairs",
+  "author": "make-github-pseudonymous-again",
+  "homepage": "https://data-structures-and-algorithms.github.io/pairs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/make-github-pseudonymous-again/js-pairs"
+    "url": "https://github.com/data-structures-and-algorithms/pairs"
   },
   "bugs": {
-    "url": "https://github.com/make-github-pseudonymous-again/js-pairs/issues"
+    "url": "https://github.com/data-structures-and-algorithms/pairs/issues"
   },
   "keywords": [
     "pairs",
