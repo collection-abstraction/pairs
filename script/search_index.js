@@ -1,50 +1,50 @@
 window.esdocSearchIndex = [
   [
-    "@aureooms/js-pairs/src/basepairs.js~basepairs",
+    "@data-structure/pairs/src/basepairs.js~basepairs",
     "class/src/BasePairs.js~BasePairs.html",
-    "<span>BasePairs</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/BasePairs.js</span>",
+    "<span>BasePairs</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/BasePairs.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-pairs/src/efficientlyinvertiblepairs.js~efficientlyinvertiblepairs",
+    "@data-structure/pairs/src/efficientlyinvertiblepairs.js~efficientlyinvertiblepairs",
     "class/src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs.html",
-    "<span>EfficientlyInvertiblePairs</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/EfficientlyInvertiblePairs.js</span>",
+    "<span>EfficientlyInvertiblePairs</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/EfficientlyInvertiblePairs.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-pairs/src/memoryefficientpairs.js~memoryefficientpairs",
+    "@data-structure/pairs/src/memoryefficientpairs.js~memoryefficientpairs",
     "class/src/MemoryEfficientPairs.js~MemoryEfficientPairs.html",
-    "<span>MemoryEfficientPairs</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/MemoryEfficientPairs.js</span>",
+    "<span>MemoryEfficientPairs</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/MemoryEfficientPairs.js</span>",
     "class"
   ],
   [
-    "@aureooms/js-pairs/src/insert.js~insert",
+    "@data-structure/pairs/src/insert.js~insert",
     "function/index.html#static-function-insert",
-    "<span>insert</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/insert.js</span>",
+    "<span>insert</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/insert.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-pairs/src/invertiterable.js~invertiterable",
+    "@data-structure/pairs/src/invertiterable.js~invertiterable",
     "function/index.html#static-function-invertIterable",
-    "<span>invertIterable</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/invertIterable.js</span>",
+    "<span>invertIterable</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/invertIterable.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-pairs/src/iterablefrommap.js~iterablefrommap",
+    "@data-structure/pairs/src/iterablefrommap.js~iterablefrommap",
     "function/index.html#static-function-iterableFromMap",
-    "<span>iterableFromMap</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/iterableFromMap.js</span>",
+    "<span>iterableFromMap</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/iterableFromMap.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-pairs/src/remove.js~remove",
+    "@data-structure/pairs/src/remove.js~remove",
     "function/index.html#static-function-remove",
-    "<span>remove</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/remove.js</span>",
+    "<span>remove</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/remove.js</span>",
     "function"
   ],
   [
-    "@aureooms/js-pairs/src/swap.js~swap",
+    "@data-structure/pairs/src/swap.js~swap",
     "function/index.html#static-function-swap",
-    "<span>swap</span> <span class=\"search-result-import-path\">@aureooms/js-pairs/src/swap.js</span>",
+    "<span>swap</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/swap.js</span>",
     "function"
   ],
   [
