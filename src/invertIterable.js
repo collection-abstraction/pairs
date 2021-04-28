@@ -1,4 +1,4 @@
-import {map} from '@aureooms/js-itertools';
+import {map} from '@iterable-iterator/map';
 import swap from './swap.js';
 
 export default function invertIterable(iterable) {

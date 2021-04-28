@@ -1,4 +1,5 @@
-import {map, filter} from '@aureooms/js-itertools';
+import {map} from '@iterable-iterator/map';
+import {filter} from '@iterable-iterator/filter';
 import {NotImplementedError} from '@aureooms/js-error';
 import iterableFromMap from './iterableFromMap.js';
 

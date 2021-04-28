@@ -1199,6 +1199,16 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.3.tgz#e45e384e4b8ec16bce2fd903af78450f6bf7ec98"
   integrity sha512-ZXRY4jNvVgSVQ8DL3LTcakaAtXwTVUxE81hslsyD2AtoXW/wVob10HkOJ1X/pAlcI7D+2YoZKg5do8G/w6RYgA==
 
+"@iterable-iterator/filter@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/filter/-/filter-0.0.1.tgz#6ae3ee1e4d5755dcada0f8f81bdea8400bd0d17d"
+  integrity sha512-4N8MKfMcUD6qLR5fFDQVFr0Xf4V4mcduTf5ipaw1qyPkj8hF1kIliqz9wE9LKyjhbq2F82d92sQRXYHIfXwazQ==
+
+"@iterable-iterator/map@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/map/-/map-0.0.1.tgz#13dd222dd384d934741d96197c0d963c5678760d"
+  integrity sha512-uB9ndHoHIditj/0+WiyZou2NqEi7yHESkL0pSC6LfVRPQcwfRUrtzd9+P002Zu8/bdm7xSYZCgTl6SIpjJxORw==
+
 "@js-library/commitlint-config@0.0.4":
   version "0.0.4"
   resolved "https://registry.yarnpkg.com/@js-library/commitlint-config/-/commitlint-config-0.0.4.tgz#5243a58b0d4ad36999d4b944c7770c50658c68f5"
