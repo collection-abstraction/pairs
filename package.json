@@ -57,7 +57,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@aureooms/js-error": "^5.0.3",
+    "@failure-abstraction/error": "^5.0.4",
     "@iterable-iterator/filter": "^0.0.1",
     "@iterable-iterator/map": "^0.0.1"
   },
