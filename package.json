@@ -1,7 +1,7 @@
 {
   "name": "@data-structure/pairs",
   "description": "Pairs set for JavaScript",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://data-structures-and-algorithms.github.io/pairs",
