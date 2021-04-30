@@ -17,7 +17,10 @@ const set = (x) =>
 const macro = (t, Pairs, input) => {
 	const pairs = Pairs.from(input);
 	const _pairs = [];
-	for (const pair of pairs) _pairs.push(pair);
+	// eslint-disable-next-line unicorn/no-array-for-each
+	pairs.forEach((pair) => {
+		_pairs.push(pair);
+	});
 	const result = sorted(order, _pairs);
 	const expected = set(map(list, input));
 	t.deepEqual(expected, result);
