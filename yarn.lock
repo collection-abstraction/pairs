@@ -1396,10 +1396,10 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@failure-abstraction/error@^5.0.4":
-  version "5.0.4"
-  resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-5.0.4.tgz#e07965ac778ba3ac18ed73f4f5a49ae109704557"
-  integrity sha512-G8km9Sv4xDQ4QLir8jxjEonEpAKUQqLlJsGrUlI/KVrpiWd1/ApwOnh3NthpS/llsaplm1Mkh2GWgYuHaVLnbQ==
+"@failure-abstraction/error@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@failure-abstraction/error/-/error-5.0.5.tgz#0cf54ae8f76a025a8df015acd958192fb29a5e9a"
+  integrity sha512-1wYCScLBgVzSrXWDNg6KqZPCTtrbduDIxGGx3OXfGXQgWusFC8vdgKL6XLycAgsv3FRx8jardWQGYnEHUCccQQ==
 
 "@istanbuljs/schema@^0.1.2":
   version "0.1.3"
