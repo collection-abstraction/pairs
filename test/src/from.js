@@ -1,7 +1,9 @@
 import test from 'ava';
 
 import {sorted, map, list, group} from '@aureooms/js-itertools';
-import {lexicographical, increasing} from '@aureooms/js-compare';
+
+import {increasing} from '@total-order/primitive';
+import {lexicographical} from '@total-order/lex';
 
 import {
 	MemoryEfficientPairs,

@@ -7,7 +7,8 @@ import {
 	permutations,
 	enumerate,
 } from '@aureooms/js-itertools';
-import {increasing} from '@aureooms/js-compare';
+
+import {increasing} from '@total-order/primitive';
 
 import {
 	MemoryEfficientPairs,
