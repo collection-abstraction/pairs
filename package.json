@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@failure-abstraction/error": "^5.0.5",
-    "@iterable-iterator/filter": "^0.0.1",
+    "@iterable-iterator/filter": "^0.1.0",
     "@iterable-iterator/map": "^0.0.1"
   },
   "devDependencies": {
