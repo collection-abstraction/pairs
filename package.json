@@ -57,7 +57,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@failure-abstraction/error": "^5.0.5",
+    "@failure-abstraction/error": "^6.0.0",
     "@iterable-iterator/filter": "^0.1.2",
     "@iterable-iterator/map": "^0.1.0"
   },
