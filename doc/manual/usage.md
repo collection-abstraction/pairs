@@ -5,14 +5,14 @@
 
 First, require the polyfill at the entry point of your application
 ```js
-require( 'regenerator-runtime/runtime' );
+await import( 'regenerator-runtime/runtime.js' );
 // or
 import 'regenerator-runtime/runtime.js' ;
 ```
 
 Then, import the library where needed
 ```js
-const pairs = require( '@data-structure/pairs' ) ;
+const pairs = await import( '@data-structure/pairs' ) ;
 // or
 import * as pairs from '@data-structure/pairs' ;
 ```
