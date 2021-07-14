@@ -1,12 +1,10 @@
 import test from 'ava';
 
-import {
-	sorted,
-	map,
-	filter,
-	permutations,
-	enumerate,
-} from '@aureooms/js-itertools';
+import {sorted} from '@iterable-iterator/sorted';
+import {map} from '@iterable-iterator/map';
+import {filter} from '@iterable-iterator/filter';
+import {enumerate} from '@iterable-iterator/zip';
+import {permutations} from '@combinatorics/n-permutations';
 
 import {increasing} from '@total-order/primitive';
 

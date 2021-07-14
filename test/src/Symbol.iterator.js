@@ -1,6 +1,9 @@
 import test from 'ava';
 
-import {sorted, map, list, group} from '@aureooms/js-itertools';
+import {sorted} from '@iterable-iterator/sorted';
+import {map} from '@iterable-iterator/map';
+import {list} from '@iterable-iterator/list';
+import {group} from '@iterable-iterator/group';
 
 import {increasing} from '@total-order/primitive';
 import {lexicographical} from '@total-order/lex';

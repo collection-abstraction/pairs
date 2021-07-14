@@ -1,6 +1,6 @@
 import test from 'ava';
 
-import {enumerate} from '@aureooms/js-itertools';
+import {enumerate} from '@iterable-iterator/zip';
 
 import {
 	MemoryEfficientPairs,
