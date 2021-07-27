@@ -1,7 +1,7 @@
 {
   "name": "@collection-abstraction/pairs",
   "description": "Pairs set for JavaScript",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://collection-abstraction.github.io/pairs",
