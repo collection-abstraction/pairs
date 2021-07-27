@@ -17,7 +17,7 @@
           "autoPrivate": true
         },
         "brand": {
-          "title": "@data-structure/pairs"
+          "title": "@collection-abstraction/pairs"
         },
         "test": {
           "type": "ava",

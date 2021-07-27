@@ -10,15 +10,14 @@ const domReady = function (callback) {
 domReady(() => {
 	const projectname = document.createElement('a');
 	projectname.classList.add('project-name');
-	projectname.text = '@data-structure/pairs';
+	projectname.text = '@collection-abstraction/pairs';
 	projectname.href = './index.html';
 
 	const header = document.querySelector('header');
 	header.insertBefore(projectname, header.firstChild);
 
 	const testlink = document.querySelector('header > a[data-ice="testLink"]');
-	testlink.href =
-		'https://app.codecov.io/gh/data-structures-and-algorithms/pairs';
+	testlink.href = 'https://app.codecov.io/gh/collection-abstraction/pairs';
 	testlink.target = '_BLANK';
 
 	const searchBox = document.querySelector('.search-box');

@@ -12,7 +12,7 @@ import 'regenerator-runtime/runtime.js' ;
 
 Then, import the library where needed
 ```js
-const pairs = await import( '@data-structure/pairs' ) ;
+const pairs = await import( '@collection-abstraction/pairs' ) ;
 // or
-import * as pairs from '@data-structure/pairs' ;
+import * as pairs from '@collection-abstraction/pairs' ;
 ```

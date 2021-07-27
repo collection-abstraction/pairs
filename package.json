@@ -1,16 +1,16 @@
 {
-  "name": "@data-structure/pairs",
+  "name": "@collection-abstraction/pairs",
   "description": "Pairs set for JavaScript",
   "version": "4.0.0",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
-  "homepage": "https://data-structures-and-algorithms.github.io/pairs",
+  "homepage": "https://collection-abstraction.github.io/pairs",
   "repository": {
     "type": "git",
-    "url": "https://github.com/data-structures-and-algorithms/pairs"
+    "url": "https://github.com/collection-abstraction/pairs"
   },
   "bugs": {
-    "url": "https://github.com/data-structures-and-algorithms/pairs/issues"
+    "url": "https://github.com/collection-abstraction/pairs/issues"
   },
   "keywords": [
     "pairs",

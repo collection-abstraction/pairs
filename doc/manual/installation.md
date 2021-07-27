@@ -8,15 +8,15 @@ or [jspm](https://jspm.org/docs).
 
 ### yarn
 ```terminal
-yarn add @data-structure/pairs
+yarn add @collection-abstraction/pairs
 ```
 
 ### npm
 ```terminal
-npm install @data-structure/pairs --save
+npm install @collection-abstraction/pairs --save
 ```
 
 ### jspm
 ```terminal
-jspm install npm:@data-structure/pairs
+jspm install npm:@collection-abstraction/pairs
 ```
