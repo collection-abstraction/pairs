@@ -1,50 +1,50 @@
 window.esdocSearchIndex = [
   [
-    "@data-structure/pairs/src/basepairs.js~basepairs",
+    "@collection-abstraction/pairs/src/basepairs.js~basepairs",
     "class/src/BasePairs.js~BasePairs.html",
-    "<span>BasePairs</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/BasePairs.js</span>",
+    "<span>BasePairs</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/BasePairs.js</span>",
     "class"
   ],
   [
-    "@data-structure/pairs/src/efficientlyinvertiblepairs.js~efficientlyinvertiblepairs",
+    "@collection-abstraction/pairs/src/efficientlyinvertiblepairs.js~efficientlyinvertiblepairs",
     "class/src/EfficientlyInvertiblePairs.js~EfficientlyInvertiblePairs.html",
-    "<span>EfficientlyInvertiblePairs</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/EfficientlyInvertiblePairs.js</span>",
+    "<span>EfficientlyInvertiblePairs</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/EfficientlyInvertiblePairs.js</span>",
     "class"
   ],
   [
-    "@data-structure/pairs/src/memoryefficientpairs.js~memoryefficientpairs",
+    "@collection-abstraction/pairs/src/memoryefficientpairs.js~memoryefficientpairs",
     "class/src/MemoryEfficientPairs.js~MemoryEfficientPairs.html",
-    "<span>MemoryEfficientPairs</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/MemoryEfficientPairs.js</span>",
+    "<span>MemoryEfficientPairs</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/MemoryEfficientPairs.js</span>",
     "class"
   ],
   [
-    "@data-structure/pairs/src/insert.js~insert",
+    "@collection-abstraction/pairs/src/insert.js~insert",
     "function/index.html#static-function-insert",
-    "<span>insert</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/insert.js</span>",
+    "<span>insert</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/insert.js</span>",
     "function"
   ],
   [
-    "@data-structure/pairs/src/invertiterable.js~invertiterable",
+    "@collection-abstraction/pairs/src/invertiterable.js~invertiterable",
     "function/index.html#static-function-invertIterable",
-    "<span>invertIterable</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/invertIterable.js</span>",
+    "<span>invertIterable</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/invertIterable.js</span>",
     "function"
   ],
   [
-    "@data-structure/pairs/src/iterablefrommap.js~iterablefrommap",
+    "@collection-abstraction/pairs/src/iterablefrommap.js~iterablefrommap",
     "function/index.html#static-function-iterableFromMap",
-    "<span>iterableFromMap</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/iterableFromMap.js</span>",
+    "<span>iterableFromMap</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/iterableFromMap.js</span>",
     "function"
   ],
   [
-    "@data-structure/pairs/src/remove.js~remove",
+    "@collection-abstraction/pairs/src/remove.js~remove",
     "function/index.html#static-function-remove",
-    "<span>remove</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/remove.js</span>",
+    "<span>remove</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/remove.js</span>",
     "function"
   ],
   [
-    "@data-structure/pairs/src/swap.js~swap",
+    "@collection-abstraction/pairs/src/swap.js~swap",
     "function/index.html#static-function-swap",
-    "<span>swap</span> <span class=\"search-result-import-path\">@data-structure/pairs/src/swap.js</span>",
+    "<span>swap</span> <span class=\"search-result-import-path\">@collection-abstraction/pairs/src/swap.js</span>",
     "function"
   ],
   [
