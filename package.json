@@ -67,7 +67,7 @@
     "@babel/core": "7.14.8",
     "@babel/preset-env": "7.14.9",
     "@babel/register": "7.14.5",
-    "@combinatorics/n-permutations": "^1.0.0",
+    "@combinatorics/n-permutations": "1.0.1",
     "@commitlint/cli": "13.1.0",
     "@iterable-iterator/group": "^1.0.0",
     "@iterable-iterator/sorted": "^1.0.0",
