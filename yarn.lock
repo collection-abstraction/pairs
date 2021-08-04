@@ -1763,7 +1763,7 @@
     "@iterable-iterator/consume" "^1.0.1"
     "@iterable-iterator/iter" "^1.0.1"
 
-"@iterable-iterator/sorted@^1.0.0":
+"@iterable-iterator/sorted@1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@iterable-iterator/sorted/-/sorted-1.0.0.tgz#d1b93cb1bb50fe6af2851b4505d2ee2df0d406dc"
   integrity sha512-raMmDjKLp25F51NGnnq3fK4lvkaHZdzB5Pt9AiMKoZKgU8gX0yM+FrdKzMG+RZswtVxre+nrR3Z6E1oGESRfzg==
