@@ -1687,13 +1687,13 @@
   dependencies:
     "@iterable-iterator/zip" "^1.0.0"
 
-"@iterable-iterator/group@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/group/-/group-1.0.0.tgz#18e7f944e05b332b04086ea78b4732569c58e82e"
-  integrity sha512-PGbASYNbzJL6DPSDrOYARWc8ffW5MKN3kyEd+bGPHWSbQcgwjV4KrPbxrqlzpPSuNUNmD0BceM8aIxMwkrAn/A==
+"@iterable-iterator/group@1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@iterable-iterator/group/-/group-1.0.1.tgz#955168993fa0b8b12a34ac62a3bd347b44394a80"
+  integrity sha512-kADCGByw6xx170yf2erKGHj1gJ8vT99TvPktszoM8UPr/Mvte4vZWtrFcKjQFEHvehvAaqweY7XRN/VjkLAdiA==
   dependencies:
-    "@iterable-iterator/iter" "^1.0.0"
-    "@iterable-iterator/range" "^2.0.0"
+    "@iterable-iterator/iter" "^1.0.1"
+    "@iterable-iterator/range" "^2.1.0"
 
 "@iterable-iterator/iter@^1.0.0":
   version "1.0.0"
@@ -1738,11 +1738,6 @@
   integrity sha512-D4E5JSH7xFEQqmJI8XMaotest1L1RM6wJssEDFRva81oZNZwPYmTlKErPZZVLnrZU/wTflEVwrImxUacoIZK3Q==
   dependencies:
     "@failure-abstraction/error" "^6.0.1"
-
-"@iterable-iterator/range@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@iterable-iterator/range/-/range-2.0.0.tgz#7cb75cecb09621821e4c710ac785ef4159d75216"
-  integrity sha512-FuGfd6oCyoZ+d47kJP9c492//qsNVOFIlIIe20aJA2jPQYjae+LhWkdS5h8c7z4zUC5jhWxamSlYBC7BIS2+TQ==
 
 "@iterable-iterator/range@^2.1.0":
   version "2.1.0"
