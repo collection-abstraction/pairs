@@ -23,8 +23,7 @@ pairs.add('bc');
 [![License](https://img.shields.io/github/license/collection-abstraction/pairs.svg)](https://raw.githubusercontent.com/collection-abstraction/pairs/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@collection-abstraction/pairs.svg)](https://www.npmjs.org/package/@collection-abstraction/pairs)
 [![Tests](https://img.shields.io/github/workflow/status/collection-abstraction/pairs/ci:test?event=push&label=tests)](https://github.com/collection-abstraction/pairs/actions/workflows/ci:test.yml?query=branch:main)
-[![Dependencies](https://img.shields.io/david/collection-abstraction/pairs.svg)](https://david-dm.org/collection-abstraction/pairs)
-[![Dev dependencies](https://img.shields.io/david/dev/collection-abstraction/pairs.svg)](https://david-dm.org/collection-abstraction/pairs?type=dev)
+[![Dependencies](https://img.shields.io/librariesio/github/collection-abstraction/pairs.svg)](https://github.com/collection-abstraction/pairs/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/collection-abstraction/pairs.svg)](https://github.com/collection-abstraction/pairs/issues)
 [![Downloads](https://img.shields.io/npm/dm/@collection-abstraction/pairs.svg)](https://www.npmjs.org/package/@collection-abstraction/pairs)
 
