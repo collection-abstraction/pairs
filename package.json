@@ -65,8 +65,8 @@
   },
   "devDependencies": {
     "@babel/core": "7.16.7",
-    "@babel/preset-env": "7.16.7",
-    "@babel/register": "7.16.7",
+    "@babel/preset-env": "7.16.8",
+    "@babel/register": "7.16.9",
     "@combinatorics/n-permutations": "1.0.2",
     "@commitlint/cli": "16.0.2",
     "@iterable-iterator/group": "1.0.1",
