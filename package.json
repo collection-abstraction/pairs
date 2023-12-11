@@ -64,8 +64,8 @@
     "@iterable-iterator/map": "^1.0.1"
   },
   "devDependencies": {
-    "@babel/core": "7.23.5",
-    "@babel/preset-env": "7.23.5",
+    "@babel/core": "7.23.6",
+    "@babel/preset-env": "7.23.6",
     "@babel/register": "7.22.15",
     "@combinatorics/n-permutations": "1.0.2",
     "@commitlint/cli": "18.4.3",
