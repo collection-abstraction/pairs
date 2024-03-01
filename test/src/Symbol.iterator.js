@@ -8,10 +8,7 @@ import {group} from '@iterable-iterator/group';
 import {increasing} from '@total-order/primitive';
 import {lexicographical} from '@total-order/lex';
 
-import {
-	MemoryEfficientPairs,
-	EfficientlyInvertiblePairs,
-} from '../../src/index.js';
+import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 
 const order = lexicographical(increasing);
 const set = (x) =>

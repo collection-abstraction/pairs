@@ -22,7 +22,7 @@ pairs.add('bc');
 
 [![License](https://img.shields.io/github/license/collection-abstraction/pairs.svg)](https://raw.githubusercontent.com/collection-abstraction/pairs/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@collection-abstraction/pairs.svg)](https://www.npmjs.org/package/@collection-abstraction/pairs)
-[![Tests](https://img.shields.io/github/workflow/status/collection-abstraction/pairs/ci:cover?event=push&label=tests)](https://github.com/collection-abstraction/pairs/actions/workflows/ci:cover.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/workflow/status/collection-abstraction/pairs/ci?event=push&label=tests)](https://github.com/collection-abstraction/pairs/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/collection-abstraction/pairs.svg)](https://github.com/collection-abstraction/pairs/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/collection-abstraction/pairs.svg)](https://github.com/collection-abstraction/pairs/issues)
 [![Downloads](https://img.shields.io/npm/dm/@collection-abstraction/pairs.svg)](https://www.npmjs.org/package/@collection-abstraction/pairs)

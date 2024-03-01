@@ -8,10 +8,7 @@ import {permutations} from '@combinatorics/n-permutations';
 
 import {increasing} from '@total-order/primitive';
 
-import {
-	MemoryEfficientPairs,
-	EfficientlyInvertiblePairs,
-} from '../../src/index.js';
+import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 
 const set = (x) => sorted(increasing, new Set(x));
 const right = (x) => map(([_A, B]) => B, x);
