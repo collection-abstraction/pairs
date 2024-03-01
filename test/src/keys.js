@@ -1,12 +1,11 @@
 import test from 'ava';
 
-import {sorted} from '@iterable-iterator/sorted';
-import {map} from '@iterable-iterator/map';
-import {list} from '@iterable-iterator/list';
 import {group} from '@iterable-iterator/group';
-
-import {increasing} from '@total-order/primitive';
+import {list} from '@iterable-iterator/list';
+import {map} from '@iterable-iterator/map';
+import {sorted} from '@iterable-iterator/sorted';
 import {lexicographical} from '@total-order/lex';
+import {increasing} from '@total-order/primitive';
 
 import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 

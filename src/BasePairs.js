@@ -1,6 +1,7 @@
-import {map} from '@iterable-iterator/map';
-import {filter} from '@iterable-iterator/filter';
 import {NotImplementedError} from '@failure-abstraction/error';
+import {filter} from '@iterable-iterator/filter';
+import {map} from '@iterable-iterator/map';
+
 import iterableFromMap from './iterableFromMap.js';
 
 export default class BasePairs {

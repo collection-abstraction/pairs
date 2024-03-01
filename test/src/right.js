@@ -1,11 +1,10 @@
 import test from 'ava';
 
-import {sorted} from '@iterable-iterator/sorted';
-import {map} from '@iterable-iterator/map';
-import {filter} from '@iterable-iterator/filter';
-import {enumerate} from '@iterable-iterator/zip';
 import {permutations} from '@combinatorics/n-permutations';
-
+import {filter} from '@iterable-iterator/filter';
+import {map} from '@iterable-iterator/map';
+import {sorted} from '@iterable-iterator/sorted';
+import {enumerate} from '@iterable-iterator/zip';
 import {increasing} from '@total-order/primitive';
 
 import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
