@@ -2,7 +2,7 @@ import test from 'ava';
 
 import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 
-const macro = (t, Pairs, input, deleted) => {
+const macro = (t, {Pairs}, input, deleted) => {
 	const result = Pairs.from(input);
 	t.is(false, result.delete(deleted));
 	t.is(input.length, result.size);
@@ -14,7 +14,10 @@ macro.title = (title, Pairs, input, deleted) =>
 		deleted,
 	)})`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, [], 'ab');
 	test(
 		macro,

@@ -12,7 +12,7 @@ import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 const set = (x) => sorted(increasing, new Set(x));
 const left = (x) => map(([A, _B]) => A, x);
 
-const macro = (t, Pairs, input) => {
+const macro = (t, {Pairs}, input) => {
 	const pairs = Pairs.from(input);
 	const l = set(left(input));
 	t.deepEqual(l, sorted(increasing, pairs.left()));
@@ -36,7 +36,10 @@ const macro = (t, Pairs, input) => {
 macro.title = (title, Pairs, input) =>
 	title || `${Pairs.name}.from(${JSON.stringify(input)}).left()`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, []);
 	test(macro, Pairs, [
 		[1, 1],

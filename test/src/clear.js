@@ -2,7 +2,7 @@ import test from 'ava';
 
 import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 
-const macro = (t, Pairs, input) => {
+const macro = (t, {Pairs}, input) => {
 	const result = Pairs.from(input);
 	const out = result.clear();
 	t.is(undefined, out);
@@ -13,7 +13,10 @@ const macro = (t, Pairs, input) => {
 macro.title = (title, Pairs, input) =>
 	title || `${Pairs.name}.from(${JSON.stringify(input)}).clear()`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, []);
 	test(macro, Pairs, [
 		[1, 1],

@@ -13,7 +13,7 @@ const order = lexicographical(increasing);
 const set = (x) =>
 	list(map(([k]) => JSON.parse(k), group(JSON.stringify, sorted(order, x))));
 
-const macro = (t, Pairs, input) => {
+const macro = (t, {Pairs}, input) => {
 	const pairs = Pairs.from(input);
 	const _pairs = [];
 	// eslint-disable-next-line unicorn/no-array-for-each
@@ -28,7 +28,10 @@ const macro = (t, Pairs, input) => {
 macro.title = (title, Pairs, input) =>
 	title || `${Pairs.name}.from(${JSON.stringify(input)}).forEach(...)`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, []);
 	test(macro, Pairs, [
 		[1, 1],

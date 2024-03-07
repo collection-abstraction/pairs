@@ -13,7 +13,7 @@ const set = (x) => sorted(increasing, new Set(x));
 const left = (x) => map(([A, _B]) => A, x);
 const leftOf = (x, b) => left(filter(([_A, B]) => b === B, x));
 
-const macro = (t, Pairs, input, ohs) => {
+const macro = (t, {Pairs}, input, ohs) => {
 	const pairs = Pairs.from(input);
 	const expected = set(leftOf(input, ohs));
 	t.deepEqual(expected, sorted(increasing, pairs.leftOf(ohs)));
@@ -37,7 +37,10 @@ const macro = (t, Pairs, input, ohs) => {
 macro.title = (title, Pairs, input, ohs) =>
 	title || `${Pairs.name}.from(${JSON.stringify(input)}).leftOf(${ohs})`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, [], 0);
 	test(
 		macro,

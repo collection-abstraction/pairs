@@ -4,7 +4,7 @@ import {enumerate} from '@iterable-iterator/zip';
 
 import {MemoryEfficientPairs, EfficientlyInvertiblePairs} from '#module';
 
-const macro = (t, Pairs, input) => {
+const macro = (t, {Pairs}, input) => {
 	const result = Pairs.from(input);
 	const expected = input.length;
 	t.is(expected, result.size);
@@ -20,7 +20,10 @@ const macro = (t, Pairs, input) => {
 macro.title = (title, Pairs, input) =>
 	title || `${Pairs.name}.from(${JSON.stringify(input)}).size`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, []);
 	test(macro, Pairs, [
 		[1, 1],

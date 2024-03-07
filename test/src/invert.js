@@ -14,7 +14,7 @@ const set = (x) =>
 	list(map(([k]) => JSON.parse(k), group(JSON.stringify, sorted(order, x))));
 const invert = (x) => map(([A, B]) => [B, A], x);
 
-const macro = (t, Pairs, input) => {
+const macro = (t, {Pairs}, input) => {
 	const pairs1 = Pairs.from(input);
 	const pairs2 = pairs1.invert();
 	const result1 = sorted(order, pairs1.values());
@@ -28,7 +28,10 @@ const macro = (t, Pairs, input) => {
 macro.title = (title, Pairs, input) =>
 	title || `${Pairs.name}.from(${JSON.stringify(input)}).invert()`;
 
-for (const Pairs of [MemoryEfficientPairs, EfficientlyInvertiblePairs]) {
+for (const Pairs of [
+	{name: 'MemoryEfficientPairs', Pairs: MemoryEfficientPairs},
+	{name: 'EfficientlyInvertiblePairs', Pairs: EfficientlyInvertiblePairs},
+]) {
 	test(macro, Pairs, []);
 	test(macro, Pairs, [
 		[1, 1],
